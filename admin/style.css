@@ -1,0 +1,95 @@
+body{
+	background-color:#444;
+	font-size:16px;
+	font-family: sans-serif;
+}
+.container {
+	width: 30%;
+	margin-top: 9%;
+	box-shadow: 0 3px 20px ghostwhite;
+	padding: 40px;
+	background-color: rgb(135, 158, 158);}
+  body { 
+	background-image: url('https://drive.google.com/uc?export=view&id=1VMs806IdRK2gJjj79nfhVOcPC_gNnIqZ');
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	font-size: 10rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #212529;
+	text-align: left;
+  }
+  
+  
+ 
+.content{
+	width: 80%;
+	margin: 10px auto;
+}
+ 
+/*header*/
+header{
+	background-color: rgb(238, 196, 118);
+	padding: 20px 10px;
+	border-radius: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 10px;
+}
+ 
+header h1.judul,
+header h3.deskripsi{
+	text-align: center;	
+}
+ 
+/*menu navigasi*/
+.menu{
+	background-color: #87CEFA;
+	border: 45px solid #f0f0f0;
+
+	
+
+}
+ 
+.menu li{
+	margin-left: 15%;
+}
+div.menu ul {
+	list-style:none;
+	overflow: hidden;
+}
+ 
+ 
+div.menu ul li {
+	float:left;		
+	text-transform:uppercase;
+}
+ 
+div.menu ul li a {
+	display:block;	
+	padding:20px auto;
+	text-decoration:none;
+	color:#2c2c2c;
+	font-family: sans-serif;
+	font-size:20px;
+	font-weight:1000;
+	transition:all 0.3s ease-in-out;
+}
+ 
+div.menu ul li a:hover,
+div.menu ul li a.hoverover {	
+	cursor: pointer;	
+	color:#fff;
+}
+ 
+ 
+div.badan{
+	background-color: rgb(139, 161, 161);
+	border-radius: 5px;
+	border: 3px solid #f0f0f0;
+	margin-bottom: 10px;
+}
+ 
+div.halaman{
+	text-align: center;
+	padding: 30px 20px;	
+}
